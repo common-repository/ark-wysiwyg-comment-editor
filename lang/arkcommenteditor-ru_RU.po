@@ -1,0 +1,390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ark-wce\n"
+"POT-Creation-Date: 2021-07-02 11:42+0600\n"
+"PO-Revision-Date: 2021-07-02 12:51+0600\n"
+"Last-Translator: Александр Каратаев <ddw2@yandex.ru>\n"
+"Language-Team: Каратаев А.Р. <ddw2@yandex.ru>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ../../../../../../../../../../Server/OpenServer/domains/"
+"wordpress/wp-content/plugins/ark-wysiwyg-comment-editor\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html_e\n"
+"X-Poedit-SearchPath-0: ark-commenteditor.php\n"
+
+#: ark-commenteditor.php:115
+msgid "Settings visual editor comments"
+msgstr "Настройка визуального редактора комментариев"
+
+#: ark-commenteditor.php:129
+msgid ""
+"Sorry, but you don't have the rights for this action. You may need to log in "
+"again."
+msgstr ""
+"Извините, но у вас нет прав на это действие. Возможно, вам придется снова "
+"войти в систему."
+
+#: ark-commenteditor.php:191
+msgid "Settings saved."
+msgstr "Настройки успешно сохранены."
+
+#: ark-commenteditor.php:197
+msgid "Settings successfully restored the default."
+msgstr "Настройки успешно восстановлены по умолчанию."
+
+#: ark-commenteditor.php:206
+msgid "Editor Options"
+msgstr "Опции редактора"
+
+#: ark-commenteditor.php:210
+msgid "Select Editor"
+msgstr "Выберите редактор"
+
+#: ark-commenteditor.php:215
+msgid "When not working TinyMCE - select CkEditor"
+msgstr "Когда не работает TinyMCE - выберите CKEditor"
+
+#: ark-commenteditor.php:217
+msgid ""
+"Under the laws of some countries, it is required to establish a checkbox to "
+"confirm consent to the terms of confidentiality and user agreements of the "
+"site. Without such a confirmation, sending a comment should be inaccessible. "
+"If at least one URL is below specified, then such checkbox will appear in "
+"the form of comments."
+msgstr ""
+"В соответствии с законодательством некоторых стран необходимо установить "
+"чекбокс, подтверждающий согласие с условиями конфиденциальности и "
+"пользовательскими соглашениями на сайте. Без такого подтверждения отправка "
+"комментария должна быть недоступна. Если хотя бы один URL указан ниже, то "
+"такой флажок появится в форме комментариев."
+
+#: ark-commenteditor.php:219
+msgid "The text of the checkbox (before the links)"
+msgstr "Текст чекбокса (перед ссылками)"
+
+#: ark-commenteditor.php:220
+msgid "I agree to the"
+msgstr "Я согласен с"
+
+#: ark-commenteditor.php:222
+msgid "Full URL to privacy conditions"
+msgstr "Полный URL к политике конфиденциальности"
+
+#: ark-commenteditor.php:224 ark-commenteditor.php:233
+msgid "Link text"
+msgstr "Текст ссылки"
+
+#: ark-commenteditor.php:225
+msgid "terms of privacy"
+msgstr "политика конфиденциальности"
+
+#: ark-commenteditor.php:228
+msgid "Text between links"
+msgstr "Текст между ссылками"
+
+#: ark-commenteditor.php:229
+msgid "and"
+msgstr "и (а так же)"
+
+#: ark-commenteditor.php:231
+msgid "Full URL to the user agreement"
+msgstr "Полный URL к пользовательскому соглашению"
+
+#: ark-commenteditor.php:234
+msgid "and user agreement"
+msgstr "и пользовательским соглашением"
+
+#: ark-commenteditor.php:239
+msgid "General Settings buttons"
+msgstr "Общие настройки кнопок"
+
+#: ark-commenteditor.php:243
+msgid "Undo"
+msgstr "Отменить"
+
+#: ark-commenteditor.php:245
+msgid "Redo"
+msgstr "Вернуть"
+
+#: ark-commenteditor.php:248
+msgid "Bold"
+msgstr "Жирный"
+
+#: ark-commenteditor.php:251
+msgid "Italic"
+msgstr "Курсив"
+
+#: ark-commenteditor.php:254
+msgid "Underline"
+msgstr "Подчёркнутый"
+
+#: ark-commenteditor.php:257
+msgid "Strikethrough"
+msgstr "Зачёркнутый"
+
+#: ark-commenteditor.php:260
+msgid "Forecolor"
+msgstr "Цвет шрифта"
+
+#: ark-commenteditor.php:263
+msgid "Backcolor"
+msgstr "Цвет фона шрифта"
+
+#: ark-commenteditor.php:269
+msgid "FontSize"
+msgstr "Размер шрифта"
+
+#: ark-commenteditor.php:271
+msgid "Font"
+msgstr "Шрифт"
+
+#: ark-commenteditor.php:276
+msgid "Link"
+msgstr "Гиперссылка"
+
+#: ark-commenteditor.php:279
+msgid "Image"
+msgstr "Изображение"
+
+#: ark-commenteditor.php:282
+msgid "Blockquote"
+msgstr "Цитата"
+
+#: ark-commenteditor.php:285
+msgid "Code"
+msgstr "Исходный код"
+
+#: ark-commenteditor.php:288
+msgid "Bullist"
+msgstr "Маркированный список"
+
+#: ark-commenteditor.php:291
+msgid "Numlist"
+msgstr "Нумерованный список"
+
+#: ark-commenteditor.php:294
+msgid "Table"
+msgstr "Таблица"
+
+#: ark-commenteditor.php:297
+msgid "Emoticons"
+msgstr "Смайлики"
+
+#: ark-commenteditor.php:301
+msgid "Additional set of smileys"
+msgstr "Дополнительные наборы смайлов"
+
+#: ark-commenteditor.php:302
+msgid ""
+"For TinyMCE will be added to the individual buttons for each set. For "
+"SKEditor default smileys will be replaced with the selected set."
+msgstr ""
+"Для TinyMCE будут добавлены дополнительные кнопки. Для SKEditor встроенный "
+"набор смайлов будет заменён выбранными наборами."
+
+#: ark-commenteditor.php:317
+msgid "From a set of emoticons QIP"
+msgstr "Смайлы из набора  QIP"
+
+#: ark-commenteditor.php:320
+msgid "From a set of emoticons Skype"
+msgstr "Смайлы из набора Скайп"
+
+#: ark-commenteditor.php:323
+msgid "From a set of emoticons k-babe"
+msgstr "Смайлы из набора k-babe"
+
+#: ark-commenteditor.php:328
+msgid "Advanced settings CKEditor"
+msgstr "Расширенные настройки CKEditor"
+
+#: ark-commenteditor.php:332
+msgid "Paste As Text"
+msgstr "Вставить как текст"
+
+#: ark-commenteditor.php:334
+msgid "Paste from Word"
+msgstr "Вставить из Word"
+
+#: ark-commenteditor.php:336
+msgid "HorizontalRule"
+msgstr "Горизонтальная линия"
+
+#: ark-commenteditor.php:338
+msgid "JustifyLeft"
+msgstr "Выравнивание влево"
+
+#: ark-commenteditor.php:340
+msgid "JustifyCenter"
+msgstr "Выравнивание по центру"
+
+#: ark-commenteditor.php:342
+msgid "JustifyRight"
+msgstr "Выравнивание вправо"
+
+#: ark-commenteditor.php:344
+msgid "JustifyBlock"
+msgstr "Выравнивание по ширине"
+
+#: ark-commenteditor.php:346
+msgid "Video Embed"
+msgstr "Вставка видео"
+
+#: ark-commenteditor.php:350
+msgid "CodeSnippet"
+msgstr "Фрагмент кода"
+
+#: ark-commenteditor.php:353
+msgid "Styles for snippets of code"
+msgstr "Стили фрагментов кода"
+
+#: ark-commenteditor.php:365
+msgid "Demonstration styles"
+msgstr "Демонстрация стилей"
+
+#: ark-commenteditor.php:368
+msgid "The number of columns with smiles"
+msgstr "Число столбцов со смайлами"
+
+#: ark-commenteditor.php:371
+msgid "Choosing skin for CkEditor"
+msgstr "Выбор скина для CkEditor"
+
+#: ark-commenteditor.php:419
+msgid "For advanced users"
+msgstr "Для продвинутых пользователей"
+
+#: ark-commenteditor.php:424
+msgid ""
+"Use your CSS. Style file myckeditor.css is in the folder wp-content\\plugins"
+"\\ark-wysiwyg-comment-editor\\css."
+msgstr ""
+"Использовать свой CSS. Файл стилей myckeditor.css находится в папке  wp-"
+"content\\plugins\ark-wysiwyg-comment-editor\\css."
+
+#: ark-commenteditor.php:424
+msgid ""
+"Correcting this file allows you to change the display of some elements of "
+"the editor text area."
+msgstr ""
+"Корректировка этого файла позволяет изменить отображение некоторых элементов "
+"текстовой области редактора."
+
+#: ark-commenteditor.php:424
+msgid "When you upgrade the plugin changes to the file may be lost."
+msgstr "При обновлении плагина изменения могут быть утеряны."
+
+#: ark-commenteditor.php:424
+msgid ""
+"It is recommended after setting the copy file to your computer, then to "
+"restore your settings."
+msgstr ""
+"Рекомендуется после внесения изменений скопировать файл себе на компьютер, "
+"чтобы потом восстановить Ваши настройки."
+
+#: ark-commenteditor.php:429
+msgid "Advanced settings TinyMCE"
+msgstr "Расширенные настройки TinyMCE"
+
+#: ark-commenteditor.php:433
+msgid "Language frontend Editor"
+msgstr "Язык интерфейса редактора"
+
+#: ark-commenteditor.php:442
+msgid "Fixed width Editor"
+msgstr "Зафиксировать ширину редактора"
+
+#: ark-commenteditor.php:445
+msgid "Editor Width"
+msgstr "Ширина редактора"
+
+#: ark-commenteditor.php:448
+msgid "Additional buttons"
+msgstr "Дополнительные кнопки"
+
+#: ark-commenteditor.php:450
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: ark-commenteditor.php:453
+msgid "Choosing skin for TinyMCE"
+msgstr "Выбор скина для TinyMCE"
+
+#: ark-commenteditor.php:495
+msgid "Experimental options"
+msgstr "Экспериментальные опции"
+
+#: ark-commenteditor.php:496
+msgid ""
+"These options and their experimental use of a matter of personal preference. "
+"Try it - you may like it. If not - at any time, deselect options."
+msgstr ""
+"Эти опции экспериментальные и их использование дело личных предпочтений. "
+"Попробуйте - может быть Вам это понравится. Если нет - в любой момент "
+"отмените выбор опций."
+
+#: ark-commenteditor.php:499
+msgid "Improved button quotes"
+msgstr "Улучшенная кнопка цитат"
+
+#: ark-commenteditor.php:500
+msgid ""
+"This button is in contrast to the standard, put quotes and performs a line "
+"feed. This functionality greatly simplifies the insertion of citations and "
+"the writing of the text after it."
+msgstr ""
+"Эта кнопка в отличие от стандартной, вставляет цитату и осуществляет перевод "
+"строки. Такой функционал заметно упрощает вставку цитаты и написание текста "
+"после неё."
+
+#: ark-commenteditor.php:504
+msgid "Use the citation style plugin"
+msgstr "Использовать стиль цитат плагина"
+
+#: ark-commenteditor.php:505
+msgid ""
+"The default style quotes of your template. Selecting this option will "
+"replace this style style plug. He is such what is there and can not be "
+"adjusted. If not work, or just do not like it - deselect."
+msgstr ""
+"По умолчанию используется стиль цитат Вашего шаблона. Выбор данной опции "
+"позволит заменить этот стиль стилем плагина. Он такой какой есть и никак не "
+"настраивается. Если не подойдёт или просто не понравится - отмените выбор."
+
+#: ark-commenteditor.php:509
+msgid "Sample quote"
+msgstr "Пример цитаты"
+
+#: ark-commenteditor.php:510
+msgid "This is just a sample quote."
+msgstr "Это просто пример цитаты."
+
+#: ark-commenteditor.php:515
+msgid "Use the citation style plug-in editor"
+msgstr "Использовать стиль цитаты плагина внутри редактора"
+
+#: ark-commenteditor.php:516
+msgid ""
+"Selecting this option will allow you to see the formatted quote directly "
+"when editing. Valid only on the built-in style plugin."
+msgstr ""
+"Выбор этой опции позволит увидеть отформатированную цитату прямо при "
+"редактировании. Действует только на встроенный стиль плагина."
+
+#: ark-commenteditor.php:520
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: ark-commenteditor.php:521
+msgid "Restore Default Settings"
+msgstr "Восстановить настройки по умолчанию"
+
+#: ark-commenteditor.php:525
+msgid "Thanks"
+msgstr "Благодарности"

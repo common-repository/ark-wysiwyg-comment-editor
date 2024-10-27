@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ark-commenteditor\n"
+"POT-Creation-Date: 2021-07-03 10:19+0600\n"
+"PO-Revision-Date: 2021-07-03 10:21+0600\n"
+"Last-Translator: Александр Каратаев <ddw2@yandex.ru>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html_e\n"
+"X-Poedit-SearchPath-0: ark-commenteditor.php\n"
+
+#: ark-commenteditor.php:125
+msgid ""
+"Sorry, but you don't have the rights for this action. You may need to log in "
+"again."
+msgstr ""
+"Leider haben Sie keine Berechtigung für diese Aktion. Möglicherweise müssen "
+"Sie sich erneut einloggen."
+
+#: ark-commenteditor.php:197
+msgid "Editor Options"
+msgstr "Editor-Optionen"
+
+#: ark-commenteditor.php:201
+msgid "Select Editor"
+msgstr "Wählen Sie Editor"
+
+#: ark-commenteditor.php:206
+msgid "When not working TinyMCE - select CkEditor"
+msgstr "Bei der Arbeit nicht TinyMCE - wählen CKEditor"
+
+#: ark-commenteditor.php:208
+msgid ""
+"Under the laws of some countries, it is required to establish a checkbox to "
+"confirm consent to the terms of confidentiality and user agreements of the "
+"site. Without such a confirmation, sending a comment should be inaccessible. "
+"If at least one URL is below specified, then such checkbox will appear in "
+"the form of comments."
+msgstr ""
+"Nach den Gesetzen einiger Länder ist es erforderlich, ein Kontrollkästchen "
+"zu aktivieren, um die Zustimmung zu den Bedingungen der Vertraulichkeit und "
+"Benutzervereinbarungen der Website zu bestätigen. Ohne eine solche "
+"Bestätigung sollte das Senden eines Kommentars nicht möglich sein. Wenn "
+"mindestens eine URL unter angegeben ist, wird ein solches Kontrollkästchen "
+"in Form von Kommentaren angezeigt."
+
+#: ark-commenteditor.php:210
+msgid "The text of the checkbox (before the links)"
+msgstr "Der Text des Kontrollkästchens (vor den Links)"
+
+#: ark-commenteditor.php:211
+msgid "I agree to the"
+msgstr "Ich stimme dem zu"
+
+#: ark-commenteditor.php:213
+msgid "Full URL to privacy conditions"
+msgstr "Vollständige URL zu Datenschutzbedingungen"
+
+#: ark-commenteditor.php:215 ark-commenteditor.php:224
+msgid "Link text"
+msgstr "Link Text"
+
+#: ark-commenteditor.php:216
+msgid "terms of privacy"
+msgstr "Bedingungen der Privatsphäre"
+
+#: ark-commenteditor.php:219
+msgid "Text between links"
+msgstr "Text zwischen den Links"
+
+#: ark-commenteditor.php:220
+msgid "and"
+msgstr "und"
+
+#: ark-commenteditor.php:222
+msgid "Full URL to the user agreement"
+msgstr "Vollständige URL zur Benutzervereinbarung"
+
+#: ark-commenteditor.php:225
+msgid "and user agreement"
+msgstr "und Benutzervereinbarung"
+
+#: ark-commenteditor.php:230
+msgid "General Settings buttons"
+msgstr "Allgemeine Einstellungen Tasten"
+
+#: ark-commenteditor.php:234
+msgid "Undo"
+msgstr "Rückgängig machen"
+
+#: ark-commenteditor.php:236
+msgid "Redo"
+msgstr "Wiederholen"
+
+#: ark-commenteditor.php:239
+msgid "Bold"
+msgstr "Fett gedruckt"
+
+#: ark-commenteditor.php:242
+msgid "Italic"
+msgstr "Kursiv"
+
+#: ark-commenteditor.php:245
+msgid "Underline"
+msgstr "Unterstreichen"
+
+#: ark-commenteditor.php:248
+msgid "Strikethrough"
+msgstr "Durchgestrichen"
+
+#: ark-commenteditor.php:251
+msgid "Forecolor"
+msgstr "Schriftfarbe"
+
+#: ark-commenteditor.php:254
+msgid "Backcolor"
+msgstr "Hintergrundfarbe"
+
+#: ark-commenteditor.php:260
+msgid "FontSize"
+msgstr "Schriftgröße"
+
+#: ark-commenteditor.php:262
+msgid "Font"
+msgstr "Schriftart"
+
+#: ark-commenteditor.php:267
+msgid "Link"
+msgstr "Link"
+
+#: ark-commenteditor.php:270
+msgid "Image"
+msgstr "Bild"
+
+#: ark-commenteditor.php:273
+msgid "Blockquote"
+msgstr "Zitieren"
+
+#: ark-commenteditor.php:276
+msgid "Code"
+msgstr "Code"
+
+#: ark-commenteditor.php:279
+msgid "Bullist"
+msgstr "Aufzählung"
+
+#: ark-commenteditor.php:282
+msgid "Numlist"
+msgstr "Nummerierte Liste"
+
+#: ark-commenteditor.php:285
+msgid "Table"
+msgstr "Tabelle"
+
+#: ark-commenteditor.php:288
+msgid "Emoticons"
+msgstr "Emoticons"
+
+#: ark-commenteditor.php:292
+msgid "Additional set of smileys"
+msgstr "Zusätzlicher Satz von smileys"
+
+#: ark-commenteditor.php:293
+msgid ""
+"For TinyMCE will be added to the individual buttons for each set. For "
+"SKEditor default smileys will be replaced with the selected set."
+msgstr ""
+"Für TinyMCE, werden den einzelnen Tasten für jeden Satz hinzugefügt werden. "
+"Für SKEditor Standard-Smileys werden durch den ausgewählten Satz ersetzt "
+"werden."
+
+#: ark-commenteditor.php:308
+msgid "From a set of emoticons QIP"
+msgstr "Aus einer Reihe von Emoticons QIP"
+
+#: ark-commenteditor.php:311
+msgid "From a set of emoticons Skype"
+msgstr "Aus einer Reihe von Emoticons Skype"
+
+#: ark-commenteditor.php:314
+msgid "From a set of emoticons k-babe"
+msgstr "Aus einer Reihe von Emoticons k-babe"
+
+#: ark-commenteditor.php:319
+msgid "Advanced settings CKEditor"
+msgstr "Erweiterte Einstellungen CKEditor"
+
+#: ark-commenteditor.php:323
+msgid "Paste As Text"
+msgstr "Einfügen als Text"
+
+#: ark-commenteditor.php:325
+msgid "Paste from Word"
+msgstr "Einfügen aus Word"
+
+#: ark-commenteditor.php:327
+msgid "HorizontalRule"
+msgstr "horizontale Linie"
+
+#: ark-commenteditor.php:329
+msgid "JustifyLeft"
+msgstr "Left Justify"
+
+#: ark-commenteditor.php:331
+msgid "JustifyCenter"
+msgstr "Zentrum Alignment"
+
+#: ark-commenteditor.php:333
+msgid "JustifyRight"
+msgstr "Richten Sie rechts"
+
+#: ark-commenteditor.php:335
+msgid "JustifyBlock"
+msgstr "Breite"
+
+#: ark-commenteditor.php:337
+msgid "Video Embed"
+msgstr "Video Eingebettet"
+
+#: ark-commenteditor.php:341
+msgid "CodeSnippet"
+msgstr "Codeschnipsel"
+
+#: ark-commenteditor.php:344
+msgid "Styles for snippets of code"
+msgstr "Styles für Code-Schnipsel"
+
+#: ark-commenteditor.php:356
+msgid "Demonstration styles"
+msgstr "Demonstration Arten"
+
+#: ark-commenteditor.php:359
+msgid "The number of columns with smiles"
+msgstr "Die Anzahl der Spalten mit einem Lächeln"
+
+#: ark-commenteditor.php:362
+msgid "Choosing skin for CkEditor"
+msgstr "Die Wahl der Haut für CKEditor"
+
+#: ark-commenteditor.php:410
+msgid "For advanced users"
+msgstr "Für fortgeschrittene Benutzer"
+
+#: ark-commenteditor.php:415
+msgid ""
+"Use your CSS. Style file myckeditor.css is in the folder wp-content\\plugins"
+"\\ark-wysiwyg-comment-editor\\css."
+msgstr ""
+"Verwenden Sie Ihre CSS. Style-Datei myckeditor.css befindet sich im Ordner "
+"wp-content\\plugins\ark-wysiwyg-comment-editor\\css."
+
+#: ark-commenteditor.php:415
+msgid ""
+"Correcting this file allows you to change the display of some elements of "
+"the editor text area."
+msgstr ""
+"Wenn Sie diese Datei korrigieren, können Sie die Anzeige einiger Elemente "
+"des Editor-Textbereichs ändern."
+
+#: ark-commenteditor.php:415
+msgid "When you upgrade the plugin changes to the file may be lost."
+msgstr ""
+"Wenn Sie das Plugin aktualisieren, können Änderungen an der Datei verloren "
+"gehen."
+
+#: ark-commenteditor.php:415
+msgid ""
+"It is recommended after setting the copy file to your computer, then to "
+"restore your settings."
+msgstr ""
+"Es wird empfohlen, die Kopierdatei auf Ihren Computer zu setzen und dann "
+"Ihre Einstellungen wiederherzustellen."
+
+#: ark-commenteditor.php:420
+msgid "Advanced settings TinyMCE"
+msgstr "Erweiterte Einstellungen TinyMCE"
+
+#: ark-commenteditor.php:424
+msgid "Language frontend Editor"
+msgstr "Sprache Frontend Editor"
+
+#: ark-commenteditor.php:433
+msgid "Fixed width Editor"
+msgstr "Feste Breite Editor"
+
+#: ark-commenteditor.php:436
+msgid "Editor Width"
+msgstr "Editor Breite"
+
+#: ark-commenteditor.php:439
+msgid "Additional buttons"
+msgstr "zusätzlichen Schaltfläche"
+
+#: ark-commenteditor.php:441
+msgid "Preview"
+msgstr "Vorschau"
+
+#: ark-commenteditor.php:444
+msgid "Choosing skin for TinyMCE"
+msgstr "Die Wahl der Haut für TinyMCE"
+
+#: ark-commenteditor.php:486
+msgid "Experimental options"
+msgstr "experimentelle Möglichkeiten"
+
+#: ark-commenteditor.php:487
+msgid ""
+"These options and their experimental use of a matter of personal preference. "
+"Try it - you may like it. If not - at any time, deselect options."
+msgstr ""
+"Diese Optionen und ihre experimentellen Einsatz einer Frage des persönlichen "
+"Geschmacks. Probieren Sie es aus - Sie mögen es. Wenn nicht - zu jeder Zeit, "
+"deaktivieren Optionen."
+
+#: ark-commenteditor.php:490
+msgid "Improved button quotes"
+msgstr "Verbesserte Button Zitate"
+
+#: ark-commenteditor.php:491
+msgid ""
+"This button is in contrast to the standard, put quotes and performs a line "
+"feed. This functionality greatly simplifies the insertion of citations and "
+"the writing of the text after it."
+msgstr ""
+"Diese Schaltfläche ist im Gegensatz zu den Standard setzen Zitate und führt "
+"einen Zeilenvorschub. Diese Funktionalität das Einfügen von Zitaten und das "
+"Schreiben des Textes, nachdem es stark vereinfacht."
+
+#: ark-commenteditor.php:495
+msgid "Use the citation style plugin"
+msgstr "Verwenden Sie die Zitierweise Plugin"
+
+#: ark-commenteditor.php:496
+msgid ""
+"The default style quotes of your template. Selecting this option will "
+"replace this style style plug. He is such what is there and can not be "
+"adjusted. If not work, or just do not like it - deselect."
+msgstr ""
+"Die Standardstil Zitate Ihrer Vorlage. Durch Auswahl dieser Option wird "
+"diese Art Stil Stecker ersetzen. Er ist so, was dort und kann nicht "
+"eingestellt werden. Wenn nicht, oder einfach nicht, wie es - aufzuheben."
+
+#: ark-commenteditor.php:500
+msgid "Sample quote"
+msgstr "Beispiel Zitat"
+
+#: ark-commenteditor.php:501
+msgid "This is just a sample quote."
+msgstr "Dies ist nur ein Beispiel zu zitieren."
+
+#: ark-commenteditor.php:506
+msgid "Use the citation style plug-in editor"
+msgstr "Verwenden Sie die Zitierweise Plug-in-Editor"
+
+#: ark-commenteditor.php:507
+msgid ""
+"Selecting this option will allow you to see the formatted quote directly "
+"when editing. Valid only on the built-in style plugin."
+msgstr ""
+"Die Auswahl dieser Option ermöglicht es Ihnen, die formatierte Zitat direkt "
+"sehen, bei der Bearbeitung. Gültig nur auf dem integrierten Design-Plugin."
+
+#: ark-commenteditor.php:511
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: ark-commenteditor.php:512
+msgid "Restore Default Settings"
+msgstr "Standardeinstellungen wiederherstellen"
+
+#: ark-commenteditor.php:516
+msgid "Thanks"
+msgstr "Vielen Dank"
+
+#~ msgid "Settings visual editor comments"
+#~ msgstr "Einstellungen visuellen Editor Kommentare"
+
+#~ msgid "Settings saved."
+#~ msgstr "Einstellungen gespeichert."
+
+#~ msgid "Settings successfully restored the default."
+#~ msgstr "Einstellungen erfolgreich wiederhergestellt den Standardwert."
